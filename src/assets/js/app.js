@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     header.style.background = '#222';
   });
   header.addEventListener('mouseout', () => {
-    header.style.background = '#111';
+    header.style.background = '#030759';
   });
 });

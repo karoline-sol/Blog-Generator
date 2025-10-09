@@ -3,7 +3,6 @@
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   background: #fafafa;
-  color: #333;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -25,6 +24,7 @@ header .logo img {
 
 header .title h1 {
   font-size: 1.5rem;
+  color:#fff
 }
 
 /* Main content area */
@@ -38,7 +38,7 @@ main {
 }
 
 main h1 {
-  color: #2c3e50;
+  color: #fff;
   margin-bottom: 0.5rem;
 }
 
